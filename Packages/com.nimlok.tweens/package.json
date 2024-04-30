@@ -1,0 +1,21 @@
+{
+    "name": "com.nimlok.tween",
+    "version": "1.0.0",
+    "displayName": "Tweens",
+    "description": "Components for tweens and sequencing",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {},
+    "keywords": [
+        "Tween",
+        "Nimlok"
+    ],
+    "author": {
+        "name": "Daniel Shapley",
+        "email": "daniel.shapley@nimlok.co.uk",
+        "url": "https://www.nimlok.co.uk"
+    }
+}
