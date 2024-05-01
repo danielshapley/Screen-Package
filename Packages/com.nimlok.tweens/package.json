@@ -1,6 +1,6 @@
 {
     "name": "com.nimlok.tweens",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Tweens",
     "description": "Components for tweens and sequencing",
     "unity": "2019.1",
